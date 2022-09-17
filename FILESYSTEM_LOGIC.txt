@@ -1,0 +1,4 @@
+site_user_content/:siteName/
+    avatar.png
+    resource_<MD5>.<ext>
+    content_<MD5>.<ext>
